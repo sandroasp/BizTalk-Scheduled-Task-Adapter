@@ -2,6 +2,8 @@
 
 The BizTalk Scheduled Task Adapter is an in-process receive adapter that executes a prescribed task on a daily, weekly or monthly schedule. The adapter is configured entirely within BizTalk, all configurations is stored within the SSODB and can be exported and imported via binding files. 
  
+![BizTalk Scheduled Task Adapter ](media/BizTalk-Scheduled-Task-Adapter-feature-image.png) 
+ 
 The schedule capabilities are similar to those available with the Windows Scheduled Task Service.
  
 Four simple tasks are included:
